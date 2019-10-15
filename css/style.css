@@ -1,0 +1,18 @@
+body {
+  background-color: white;
+  color: black;
+ }
+h1 {
+  color: red;
+  font-family: "courier new";
+  font-size: 30px;
+}
+div {
+  min-height:30vh;
+  width:30vw;
+}
+#hi {colour: indigo;
+}
+.contrast:hover{
+  background-color: pink;
+}
